@@ -1,8 +1,8 @@
 ---
  type: posts
  title: Posts
- date: 2021-03-18
- ---
+ date: '2021-03-18'
+---
 
 # Building a SaaS Startup as a Founder
   
@@ -106,7 +106,7 @@
  - [The Importance of Customer Feedback in SaaS Product Development](/The-Importance-of-Customer-Feedback-in-SaaS-Product-Development)
 
   
-  # Building and Growing a API-First SaaS
+# Building and Growing a API-First SaaS
   
    - [How to Build an API-First SaaS](/How-to-Build-an-API-First-SaaS)
  - [Why You Should Prioritize API-First Design in Your SaaS](/Why-You-Should-Prioritize-API-First-Design-in-Your-SaaS)
@@ -342,14 +342,12 @@
  - [How to Implement a List Management API for Your SaaS](/How-to-Implement-a-List-Management-API-for-Your-SaaS)
  - [The Importance of API-First Contract Design in Your SaaS](/The-Importance-of-API-First-Contract-Design-in-Your-SaaS)
  - [How to Implement a Search Integration API for Your SaaS](/How-to-Implement-a-Search-Integration-API-for-Your-SaaS)
- - [How to Build a Real-Time Maps API for Your SaaS
-```
-](/How-to-Build-a-Real-Time-Maps-API-for-Your-SaaS)
+ - [How to Build a Real-Time Maps API for Your SaaS](/How-to-Build-a-Real-Time-Maps-API-for-Your-SaaS)
 
   
-  # Navigating the Idea Maze, building an MVP, and finding PMF when creating a startup
+# Navigating the Idea Maze, building an MVP, and finding PMF when creating a startup
   
-   - [Building an MVP - The Essential Steps](/Building-an-MVP-The-Essential-Steps)
+ - [Building an MVP - The Essential Steps](/Building-an-MVP-The-Essential-Steps)
  - [How to Find Product-Market Fit for Your Startup](/How-to-Find-Product-Market-Fit-for-Your-Startup)
  - [The Idea Maze and Beyond](/The-Idea-Maze-and-Beyond)
  - [Creating a Startup - From Idea to MVP](/Creating-a-Startup-From-Idea-to-MVP)
